@@ -1,2 +1,3 @@
-# practice-repo
+# practice-repo for JS
+
 code repo
