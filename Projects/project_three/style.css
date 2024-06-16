@@ -1,0 +1,16 @@
+#main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#clock{
+    height: 3rem;
+    width: 12rem;
+    background-color: rgb(19, 138, 242);
+    text-align: center;
+    line-height: 3rem;
+    color: #fff;
+}
